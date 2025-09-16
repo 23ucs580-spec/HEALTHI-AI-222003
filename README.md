@@ -2,6 +2,7 @@
 
 - 📄 **PDF Report:** [project1.pdf](project1.pdf)
 - 📓 **app.py.ipynb Notebook:** [healthai.ipynb](healthai.ipynb)
-- 🤖 **Live Hugging Face Demo:** [Health-AI1 Space](https://huggingface.co/spaces/RAJASEKAR1/health-ai1)
-- 🎥 **Demo Video:** [demo-vedio.mp4](demo-vedio.mp4)
+- 🤖 **Live Hugging Face:** [Health-AI1 Space](https://huggingface.co/spaces/RAJASEKAR1/health-ai1)
+- 🎥 **Demo Video:** [Watch here](https://github.com/23ucs580-spec/HEALTHI-AI-222003/releases/download/v1.0.0/demo%20vedio.mp4)
+
 
