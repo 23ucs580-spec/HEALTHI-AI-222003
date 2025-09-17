@@ -1,5 +1,18 @@
 ## Project Files & Links
 
+# 🩺 HEALTH AI: Intelligent Health Care Assistant
+
+An AI-powered healthcare assistant that helps users with **symptom analysis, health recommendations, and quick access to medical information**.  
+This project demonstrates how machine learning and natural language processing can assist patients and healthcare providers with fast, reliable insights.
+
+---
+
+## ✨ Features
+- **Symptom Checker** – Enter symptoms and receive likely condition suggestions.
+- **AI Chatbot** – Conversational interface for common health queries.
+- **Health Tips** – Personalized wellness and lifestyle recommendations.
+- **Secure Data Handling** – Patient privacy and security are prioritized.
+
 - 📄 **PDF Report (project1.pdf):** [👀 View](project1.pdf)  for  [⏬ download](https://github.com/23ucs580-spec/HEALTHI-AI-222003/releases/download/v2.0.0/project1.pdf)
 - 📓 **app.py.ipynb Notebook (healthai.ipynb):** [👀 View](healthai.ipynb)   for    [⏬ download](https://github.com/23ucs580-spec/HEALTHI-AI-222003/releases/download/v1.1.0/healthai.1.ipynb)
 - 🤖 **Live Hugging Face:** [Health-AI1 Space](https://huggingface.co/spaces/RAJASEKAR1/health-ai1)
